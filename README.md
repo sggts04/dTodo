@@ -1,7 +1,7 @@
 # dTodo
 ---
 
-dTodo is a Decentralized Todos App deployed on the Ropsten Ethereum Testnet. You can use it to track your todos while they are being securely stored in a Public Blockchain as transactions on a Smart Contract. This is my first test project while learning Solidity.
+dTodo is a Decentralized Todos App deployed on the Ropsten Ethereum Testnet. You can use it to track your todos while they are being securely stored on a Smart Contract through transactions on a Public Blockchain. This is my first test project while learning Solidity.
 
 **If you are new to Blockchain and dApps, scroll down for a guide on how to use this dApp as a beginner.**
 
