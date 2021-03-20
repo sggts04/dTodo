@@ -1,5 +1,5 @@
 App = {
-    loading: false,
+    loading: true,
     contracts: {},
 
     load: async () => {
@@ -51,6 +51,7 @@ App = {
     loadContract: async () => {
         var dTodoAddress = "0xA21eD590784E4a83AbdACC304373d57fd14A61FD";
         App.contracts.dTodo = new web3.eth.Contract(abi, dTodoAddress);
+        App.setLoading(false);
     },
 
     render: async () => {
@@ -108,6 +109,7 @@ App = {
         } else {
             loader.hide();
             content.show();
+            content.css('display', 'initial');
         }
     }
 }
