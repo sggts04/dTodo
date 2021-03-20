@@ -7,7 +7,7 @@ dTodo is a Decentralized Todos App deployed on the Ropsten Ethereum Testnet. You
 
 The contract dTodo has been deployed on the Ropsten Ethereum Testnet at: [0xA21eD590784E4a83AbdACC304373d57fd14A61FD](https://ropsten.etherscan.io/address/0xa21ed590784e4a83abdacc304373d57fd14a61fd)
 
-You can use the app here: [shreyasgupta.in/dTodo](https://shreyasgupta.in/dTodo/)
+You can use the app here: [shreyasgupta.in/dTodo/](https://shreyasgupta.in/dTodo/)
 
 Make sure you're switched to Ropsten Testnet on Metamask while using the app.
 
